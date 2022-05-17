@@ -1,0 +1,17 @@
+.col-md-12 a{
+    text-decoration: none;
+    float: right;
+    color: black;
+    height: 20px;
+   
+}
+
+.col-md-12 span{
+    border-right:1px solid gray ;
+    margin-right: 10px;
+    margin-left: 10px ;
+}
+
+.siderbar{
+    background: rgb(101, 94, 94);
+}
